@@ -2,7 +2,7 @@
   "name": "todo-list-v-1.0",
   "version": "1.0.0",
   "description": "A Simple To-Do list App.",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
